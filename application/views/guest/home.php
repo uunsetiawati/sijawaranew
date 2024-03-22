@@ -51,8 +51,8 @@
                     Tersedia video pembelajaran, materi tertulis, dan dilengkapi soal-soal. Kamu juga akan mendapatkan sertifikat. Sijawara juga hadir untuk pembelajaran daring. Pilih materi yang disukai dan segera daftarkan dirimu !!!
                 </p>
                 <div class="d-flex gap-2">
-                    <button class="btn btn-primary py-2 px-4">Mulai Belajar</button>
-                    <button class="btn btn-outline-primary py-2 px-4">Daftar</button>
+                    <a href="https://sijawara.diskopukm.jatimprov.go.id/login"><button class="btn btn-primary py-2 px-4">Mulai Belajar</button><a>
+                    <a href="https://sijawara.diskopukm.jatimprov.go.id/login"><button class="btn btn-outline-primary py-2 px-4">Daftar</button></a>
                 </div>
             </div>
             <div class="col-0 col-lg-5 text-end">
