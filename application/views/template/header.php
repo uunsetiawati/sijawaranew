@@ -36,7 +36,7 @@
 </head>
 <!-- oncontextmenu="return false" -->
 
-<body style="<?= $title == "TBHAcademy" ? "background-image: url(assets/images/new/bg.png);" : "" ?>">
+<body style="<?= $title == "SIJAWARA+" ? "background-image: url(assets/images/new/bg.png);" : "" ?>">
     <?= $this->session->flashdata('msg_auth') ?>
     <div id="page-container">
         <!-- Navbar -->
