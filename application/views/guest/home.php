@@ -120,20 +120,38 @@
             <div class="row">
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate quaerat soluta eligendi magni cumque iusto."</i>
-                        <div class="mt-3 fw-bold">John Doe</div>
+                        <i>"inovasi baru di era global, mudah2an bisa jadi platform terbaik untuk mempermudah Peningkatan SDM pelaku koperasi dan UMKM kedepan. sukses terus SiJawara..."</i>
+                        <div class="mt-3 fw-bold">Restu Dwi</div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate quaerat soluta eligendi magni cumque iusto."</i>
-                        <div class="mt-3 fw-bold">John Doe</div>
+                        <i>"Aplikasi ini sangat membantu sekali dalam hal menambah wawasan, pengetahuan tentang koperasi dan UMKM apalagi ditengah pandemi covid-19 yang harus social distancing. Vidio pembelajarannya enak mudah dipahami, aplikasinya juga ringan dan tidak ada bug selama ini"</i>
+                        <div class="mt-3 fw-bold">Nining Nurhalimah</div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptate quaerat soluta eligendi magni cumque iusto."</i>
-                        <div class="mt-3 fw-bold">John Doe</div>
+                        <i>"Aplikasi yang membantu UKM untuk tetap belajar dan mengembangkan usahanya melalui online, membantu UKM di daerah supaya tidak ketinggalan dengan yang berada di kota besar."</i>
+                        <div class="mt-3 fw-bold">Salfiyaningsih</div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-4 p-4">
+                    <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
+                        <i>"Aplikasi yang bagus. Wadah UMKM untuk berkembang, sharing ilmu dan teknik pemasaran, pengelolaan dan masih banyak lagi. Recommended"</i>
+                        <div class="mt-3 fw-bold">Ayu Aswita</div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-4 p-4">
+                    <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
+                        <i>"Menambah Pengetahuan ilmu baru, up-to-date terus materi pembelajarannya sijawara, belajar tentang KOPERASI dan UMKM jadi bisa dimanapun..."</i>
+                        <div class="mt-3 fw-bold">Ricky H Nugroho</div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-4 p-4">
+                    <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
+                        <i>"Aplikasi yang sangat recommended untuk koperasi dan UMKM yang professional dan pemula karena banyak ilmu pengetahuan yang up-to-date didalamnya"</i>
+                        <div class="mt-3 fw-bold">Widia Wahyu</div>
                     </div>
                 </div>
             </div>
