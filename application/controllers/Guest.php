@@ -13,7 +13,7 @@ class Guest extends CI_Controller
 
 	public function index()
 	{
-		$data['title'] = 'TBHAcademy';
+		$data['title'] = 'SIJAWARA+';
 
 		$data['kategori'] = $this->Category->get_all_category();
 		$data['checkout'] = $this->Checkout->get_all_order($this->session->userdata('ID_USER'));
