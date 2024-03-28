@@ -248,6 +248,7 @@ class CourseController extends InstructorMiddleware
             $jawaban_a = $_POST['jawaban_a'];
             $jawaban_b = $_POST['jawaban_b'];
             $jawaban_c = $_POST['jawaban_c'];
+            $jawaban_d = $_POST['jawaban_d'];
             $kunci_soal = $_POST['kunci_soal_'];
             $list_quiz = $_POST['list_quiz'];
             $order_list_question = $_POST['order_list_question'];
@@ -260,6 +261,7 @@ class CourseController extends InstructorMiddleware
                         'PIL_JWB_A' => $jawaban_a[$h],
                         'PIL_JWB_B' => $jawaban_b[$h],
                         'PIL_JWB_C' => $jawaban_c[$h],
+                        'PIL_JWB_D' => $jawaban_d[$h],
                         'KUNCI' => $kunci_soal[$h],
                         'ORDER_LIST' => $order_list_question[$h]
                     ));
@@ -274,7 +276,7 @@ class CourseController extends InstructorMiddleware
                             'ID_QUIZ' => $id_quiz[$j],
                             'ID_COURSE' => $id_course,
                             'SOAL' => $question_list[$j]['SOAL'][$i],
-                            'PIL_JWB' => implode(',', [$question_list[$j]['PIL_JWB_A'][$i], $question_list[$j]['PIL_JWB_B'][$i], $question_list[$j]['PIL_JWB_C'][$i]]),
+                            'PIL_JWB' => implode(',', [$question_list[$j]['PIL_JWB_A'][$i], $question_list[$j]['PIL_JWB_B'][$i], $question_list[$j]['PIL_JWB_C'][$i],$question_list[$j]['PIL_JWB_D'][$i]]),
                             'KUNCI' => $question_list[$j]['KUNCI'][$i],
                             'ORDER_LIST' => $question_list[$j]['ORDER_LIST'][$i]
                         )

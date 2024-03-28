@@ -7,11 +7,13 @@
     <title>
         <?= $title ?>
     </title>
+
     <link rel="shortcut icon" href="<?= base_url('assets/images/new/logo.png') ?>">
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/scss/custom.css') ?>" />
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/jquery-ui.min.css') ?>" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.5.2/css/fileinput.min.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.2.0/mdb.min.css" rel="stylesheet" />
 
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>

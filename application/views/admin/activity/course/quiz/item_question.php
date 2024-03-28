@@ -40,6 +40,13 @@
                     <input type="text" class="form-control col-md-10" name="jawaban_c[<?= ($id_quiz - 1) ?>][]">
                 </div>
             </div>
+            <div class="radio col-md-12 mb-2">
+                <div class="row">
+                    <input id="radio3<?= $no . "" . $id_quiz ?>" name="kunci_soal_[<?= ($id_quiz - 1); ?>][<?= ($no - 1); ?>]" type="radio" value="d">
+                    <label for="radio3<?= $no . "" . $id_quiz ?>" class="mr-1">D. </label>
+                    <input type="text" class="form-control col-md-10" name="jawaban_d[<?= ($id_quiz - 1) ?>][]">
+                </div>
+            </div>
         </div>
     </div>
 </div>

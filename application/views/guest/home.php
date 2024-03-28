@@ -41,7 +41,7 @@
     <div class="container px-0 pt-5">
         <div class="row">
             <div class="col-12 col-lg-7 py-2 px-4">
-                
+
                 <h1 class="fw-bold">Selamat Datang di SIJAWARA+</h1>
                 <p class="fw-semibold pt-3">SIJAWARA adalah akronim dari Sistem Informasi Pembelajaran dan Peningkatan Wawasan Perkoperasian. Melalui sijawara, sobat bisa mempelajari secara mandiri ilmu perkoperasian. Tak hanya itu, sobat sijawara bisa juga mempelajari ilmu terkait pengembangan UMKM. </p>
                 <svg width="375" height="34" viewBox="0 0 487 34" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -52,7 +52,7 @@
                 </p>
                 <div class="d-flex gap-2">
                     <a href="https://sijawara.diskopukm.jatimprov.go.id/login"><button class="btn btn-primary py-2 px-4">Mulai Belajar</button><a>
-                    <a href="https://sijawara.diskopukm.jatimprov.go.id/login"><button class="btn btn-outline-primary py-2 px-4">Daftar</button></a>
+                            <a href="https://sijawara.diskopukm.jatimprov.go.id/login"><button class="btn btn-outline-primary py-2 px-4">Daftar</button></a>
                 </div>
             </div>
             <div class="col-0 col-lg-5 text-end">
@@ -120,38 +120,80 @@
             <div class="row">
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"inovasi baru di era global, mudah2an bisa jadi platform terbaik untuk mempermudah Peningkatan SDM pelaku koperasi dan UMKM kedepan. sukses terus SiJawara..."</i>
                         <div class="mt-3 fw-bold">Restu Dwi</div>
+                        <i>"inovasi baru di era global, mudah2an bisa jadi platform terbaik untuk mempermudah Peningkatan SDM pelaku koperasi dan UMKM kedepan. sukses terus SiJawara..."</i>
+                        <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Aplikasi ini sangat membantu sekali dalam hal menambah wawasan, pengetahuan tentang koperasi dan UMKM apalagi ditengah pandemi covid-19 yang harus social distancing. Vidio pembelajarannya enak mudah dipahami, aplikasinya juga ringan dan tidak ada bug selama ini"</i>
                         <div class="mt-3 fw-bold">Nining Nurhalimah</div>
+                        <i>"Aplikasi ini sangat membantu sekali dalam hal menambah wawasan, pengetahuan tentang koperasi dan UMKM apalagi ditengah pandemi covid-19 yang harus social distancing. Vidio pembelajarannya enak mudah dipahami, aplikasinya juga ringan dan tidak ada bug selama ini"</i>
+                        <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Aplikasi yang membantu UKM untuk tetap belajar dan mengembangkan usahanya melalui online, membantu UKM di daerah supaya tidak ketinggalan dengan yang berada di kota besar."</i>
                         <div class="mt-3 fw-bold">Salfiyaningsih</div>
+                        <i>"Aplikasi yang membantu UKM untuk tetap belajar dan mengembangkan usahanya melalui online, membantu UKM di daerah supaya tidak ketinggalan dengan yang berada di kota besar."</i>
+                        <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Aplikasi yang bagus. Wadah UMKM untuk berkembang, sharing ilmu dan teknik pemasaran, pengelolaan dan masih banyak lagi. Recommended"</i>
                         <div class="mt-3 fw-bold">Ayu Aswita</div>
+                        <i>"Aplikasi yang bagus. Wadah UMKM untuk berkembang, sharing ilmu dan teknik pemasaran, pengelolaan dan masih banyak lagi. Recommended"</i>
+                        <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Menambah Pengetahuan ilmu baru, up-to-date terus materi pembelajarannya sijawara, belajar tentang KOPERASI dan UMKM jadi bisa dimanapun..."</i>
                         <div class="mt-3 fw-bold">Ricky H Nugroho</div>
+                        <i>"Menambah Pengetahuan ilmu baru, up-to-date terus materi pembelajarannya sijawara, belajar tentang KOPERASI dan UMKM jadi bisa dimanapun..."</i>
+                        <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-4 p-4">
                     <div class="rounded shadow py-4 px-4" style="background-color: #D9D9D9;">
-                        <i>"Aplikasi yang sangat recommended untuk koperasi dan UMKM yang professional dan pemula karena banyak ilmu pengetahuan yang up-to-date didalamnya"</i>
                         <div class="mt-3 fw-bold">Widia Wahyu</div>
+                        <i>"Aplikasi yang sangat recommended untuk koperasi dan UMKM yang professional dan pemula karena banyak ilmu pengetahuan yang up-to-date didalamnya"</i>
+                        <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                            <li><i class="fas fa-star fa-sm"></i></li>
+                        </ul>
                     </div>
                 </div>
             </div>
